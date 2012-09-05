@@ -8,6 +8,8 @@ OLEDFourBit lcd(3, 4, 5, 6, 7, 8, 9);
 char lcdText[4][21];
 int thisChar = 'a';
 
+// Just random noise
+
 //The setup function is called once at startup of the sketch
 void setup()
 {
